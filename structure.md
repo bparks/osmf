@@ -21,12 +21,20 @@ Examples of OSMF disciplines:
 
 ## Discipline Details
 
-Each discipline is organized into a section describing the most important concepts in successfully practicing
-the discipline (some of which might correspond to entities in a software system) and a set of recommended
-processes and subprocesses, roughly corrspoding to the following headings:
+Each discipline is organized to support three outcomes: a shared vocabulary for discussing how work is done,
+a concrete path to get started, and guidance for adapting the practice when the template does not fit. The
+content is structured under the following headings:
 
 - Primary Objects/Actors - definitions of the one or two entities that are tracked or managed
 - Supporting Objects/Actors - definitions of other entities that contain additional details
 - Related Objects/Actors - entities that come from other disciplines (or may be tracked by other systems and processes)
-- Lifecycles - if there's a sequence of stages that is used in this discipline, this section explains why and how
-- Processes - various examples of how to put this discipline into practice based on contributors' experiences.
+- Lifecycles - if there is a sequence of stages used in this discipline, this section explains why and how
+- Getting Started - a minimal template for adopting the discipline, plus when and why to introduce it (including problems or pain that may indicate the discipline is worth introducing)
+- Processes - examples of putting the discipline into practice, drawn from contributors' experiences
+- Adaptation - how to evolve the practice for your organization when the template does not fit, how to make decisions without prescriptive rules, and pitfalls to avoid.
+
+The framework prioritizes three outcomes for each discipline:
+
+- Shared vocabulary - consistent terms and concepts so that teams can discuss "how we do things" with their peers.
+- Getting started - a minimal template for adoption, plus when and why to introduce the discipline (including problems or pain that may indicate it is worth introducing).
+- Adaptation - guidance for evolving the practice when the template does not fit, including how to make decisions for your own organization and pitfalls to watch out for.
