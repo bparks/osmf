@@ -13,7 +13,7 @@ Examples of OSMF disciplines:
 - Incident Resolution
 - Problem Management
 - Configuration Management
-- Change Management
+- Change Coordination
 - Asset Management
 - Service Definition
 - Experience Management

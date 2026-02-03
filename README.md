@@ -4,6 +4,14 @@
 
 1. [Front Matter](#vision)
 2. [Structure](./structure.md)
+3. [Incident Resolution](./incident-resolution.md)
+4. [Problem Management](./problem-management.md)
+5. [Configuration Management](./configuration-management.md)
+6. [Change Coordination](./change-coordination.md)
+7. [Asset Management](./asset-management.md)
+8. [Service Definition](./service-definition.md)
+9. [Experience Management](./experience-management.md)
+10. [Service Channel Selection](./service-channel-selection.md)
 
 ## Vision
 
